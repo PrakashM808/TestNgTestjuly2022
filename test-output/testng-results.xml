@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3328" started-at="2023-02-07T20:13:33Z" finished-at="2023-02-07T20:13:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3328" started-at="2023-02-07T20:13:33Z" finished-at="2023-02-07T20:13:36Z">
+      <class name="test.MonthDropDownTest">
+        <test-method status="PASS" signature="Validate_a_user_is_able_to_add_category()[pri:0, instance:test.MonthDropDownTest@1753acfe]" name="Validate_a_user_is_able_to_add_category" duration-ms="3313" started-at="2023-02-07T20:13:33Z" finished-at="2023-02-07T20:13:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_a_user_is_able_to_add_category -->
+      </class> <!-- test.MonthDropDownTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
