@@ -11,7 +11,7 @@ public class MonthDropDownTest {
 	
 	WebDriver driver;
 	@Test
-	public void Validate_a_user_is_able_to_add_category() {
+	public void MonthDropDownTest() {
 		driver=BrowserFactory.init();
 		
 		AddCategoryPage addCategoryPage = PageFactory.initElements(driver, AddCategoryPage.class);

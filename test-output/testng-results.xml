@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3328" started-at="2023-02-07T20:13:33Z" finished-at="2023-02-07T20:13:36Z">
+  <suite name="Default suite" duration-ms="2835" started-at="2023-02-26T19:58:57Z" finished-at="2023-02-26T19:59:00Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3328" started-at="2023-02-07T20:13:33Z" finished-at="2023-02-07T20:13:36Z">
-      <class name="test.MonthDropDownTest">
-        <test-method status="PASS" signature="Validate_a_user_is_able_to_add_category()[pri:0, instance:test.MonthDropDownTest@1753acfe]" name="Validate_a_user_is_able_to_add_category" duration-ms="3313" started-at="2023-02-07T20:13:33Z" finished-at="2023-02-07T20:13:36Z">
+    <test name="Default test" duration-ms="2835" started-at="2023-02-26T19:58:57Z" finished-at="2023-02-26T19:59:00Z">
+      <class name="test.MonthDropDownTest2">
+        <test-method status="PASS" signature="MonthDropDownTest()[pri:0, instance:test.MonthDropDownTest2@1753acfe]" name="MonthDropDownTest" duration-ms="2827" started-at="2023-02-26T19:58:57Z" finished-at="2023-02-26T19:59:00Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Validate_a_user_is_able_to_add_category -->
-      </class> <!-- test.MonthDropDownTest -->
+        </test-method> <!-- MonthDropDownTest -->
+      </class> <!-- test.MonthDropDownTest2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
